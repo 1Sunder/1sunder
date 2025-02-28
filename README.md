@@ -1,2 +1,1 @@
-[Alt text](4c46ca10fa9bbf4e69fb4bc84a6d4f018a46ddc0f6ccca24fdab0b8b1bc37
-)
+[Alt text](4c46ca10fa9bbf4e69fb4bc84a6d4f018a46ddc0f6ccca24fdab0b8b1bc37)
